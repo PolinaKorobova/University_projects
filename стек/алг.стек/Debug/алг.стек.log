@@ -1,0 +1,3 @@
+﻿  алг.стек.cpp
+C:\Users\polin\source\repos\алг.стек\алг.стек\алг.стек.cpp(13): warning C4715: prior: значение возвращается не при всех путях выполнения
+  алг.стек.vcxproj -> C:\Users\polin\source\repos\алг.стек\Debug\алг.стек.exe
